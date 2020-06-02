@@ -1,0 +1,11 @@
+C:\Users\Nicholas\source\repos\SHA256Sharp\SHA256Sharp\bin\Debug\netcoreapp3.0\SHA256Sharp.exe
+C:\Users\Nicholas\source\repos\SHA256Sharp\SHA256Sharp\bin\Debug\netcoreapp3.0\SHA256Sharp.deps.json
+C:\Users\Nicholas\source\repos\SHA256Sharp\SHA256Sharp\bin\Debug\netcoreapp3.0\SHA256Sharp.runtimeconfig.json
+C:\Users\Nicholas\source\repos\SHA256Sharp\SHA256Sharp\bin\Debug\netcoreapp3.0\SHA256Sharp.runtimeconfig.dev.json
+C:\Users\Nicholas\source\repos\SHA256Sharp\SHA256Sharp\bin\Debug\netcoreapp3.0\SHA256Sharp.dll
+C:\Users\Nicholas\source\repos\SHA256Sharp\SHA256Sharp\bin\Debug\netcoreapp3.0\SHA256Sharp.pdb
+C:\Users\Nicholas\source\repos\SHA256Sharp\SHA256Sharp\obj\Debug\netcoreapp3.0\SHA256Sharp.csprojAssemblyReference.cache
+C:\Users\Nicholas\source\repos\SHA256Sharp\SHA256Sharp\obj\Debug\netcoreapp3.0\SHA256Sharp.AssemblyInfoInputs.cache
+C:\Users\Nicholas\source\repos\SHA256Sharp\SHA256Sharp\obj\Debug\netcoreapp3.0\SHA256Sharp.AssemblyInfo.cs
+C:\Users\Nicholas\source\repos\SHA256Sharp\SHA256Sharp\obj\Debug\netcoreapp3.0\SHA256Sharp.dll
+C:\Users\Nicholas\source\repos\SHA256Sharp\SHA256Sharp\obj\Debug\netcoreapp3.0\SHA256Sharp.pdb
